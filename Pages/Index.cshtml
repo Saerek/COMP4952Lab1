@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Samuel Park";
+}
+
+<h1>Zodiac Sign Calculator</h1>
+<form method="post">
+    <div>
+        <label for="year">Enter a Year: </label>
+        <input type="text" id="year" name="year" value="@Model.Year" />
+        <span style="color:red">@Model.ErrorMessage</span>
+    </div>
+    <div>
+        <button type="submit">Submit</button>
+        <button type="reset">Clear</button>
+    </div>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.ZodiacSign))
+{
+    <h2>Your Zodiac Sign: @Model.ZodiacSign</h2>
+    <img src="~/images/@(Model.ZodiacSign).png" alt="@Model.ZodiacSign" />
+
+
+}
+
+<footer>
+    <p>Created by Samuel Park</p>
+</footer>

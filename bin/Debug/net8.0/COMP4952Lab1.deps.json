@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "COMP4952Lab1/1.0.0": {
+        "runtime": {
+          "COMP4952Lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COMP4952Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
