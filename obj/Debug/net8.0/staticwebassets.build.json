@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0t4oMnRAq2z9amB/aMahvCMw4HBAxCbdr0zruPhhDxw=",
+  "Hash": "UBtQ7MrRK7QQtpfPf+J5CA250pxETl2IswL50Fg2yTY=",
   "Source": "COMP4952Lab1",
   "BasePath": "_content/COMP4952Lab1",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Dog.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\dog.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Dog.png",
+      "RelativePath": "images/dog.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Dog.png"
+      "OriginalItemSpec": "wwwroot\\images\\dog.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Dragon.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\dragon.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Dragon.png",
+      "RelativePath": "images/dragon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Dragon.png"
+      "OriginalItemSpec": "wwwroot\\images\\dragon.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Goat.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\goat.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Goat.png",
+      "RelativePath": "images/goat.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Goat.png"
+      "OriginalItemSpec": "wwwroot\\images\\goat.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Horse.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\horse.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Horse.png",
+      "RelativePath": "images/horse.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Horse.png"
+      "OriginalItemSpec": "wwwroot\\images\\horse.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Monkey.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\monkey.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Monkey.png",
+      "RelativePath": "images/monkey.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Monkey.png"
+      "OriginalItemSpec": "wwwroot\\images\\monkey.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Ox.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\ox.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Ox.png",
+      "RelativePath": "images/ox.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Ox.png"
+      "OriginalItemSpec": "wwwroot\\images\\ox.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Pig.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\pig.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Pig.png",
+      "RelativePath": "images/pig.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Pig.png"
+      "OriginalItemSpec": "wwwroot\\images\\pig.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Rabbit.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\rabbit.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Rabbit.png",
+      "RelativePath": "images/rabbit.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Rabbit.png"
+      "OriginalItemSpec": "wwwroot\\images\\rabbit.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Rat.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\rat.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Rat.png",
+      "RelativePath": "images/rat.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Rat.png"
+      "OriginalItemSpec": "wwwroot\\images\\rat.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Rooster.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\rooster.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Rooster.png",
+      "RelativePath": "images/rooster.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Rooster.png"
+      "OriginalItemSpec": "wwwroot\\images\\rooster.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Snake.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\snake.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Snake.png",
+      "RelativePath": "images/snake.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Snake.png"
+      "OriginalItemSpec": "wwwroot\\images\\snake.png"
     },
     {
-      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\Tiger.png",
+      "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\images\\tiger.png",
       "SourceId": "COMP4952Lab1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\",
       "BasePath": "_content/COMP4952Lab1",
-      "RelativePath": "images/Tiger.png",
+      "RelativePath": "images/tiger.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,7 +318,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Tiger.png"
+      "OriginalItemSpec": "wwwroot\\images\\tiger.png"
     },
     {
       "Identity": "C:\\Users\\sampa\\OneDrive\\Desktop\\School\\Term 4\\COMP 4952\\COMP4952Lab1\\COMP4952Lab1\\wwwroot\\js\\site.js",

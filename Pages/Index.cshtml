@@ -4,6 +4,7 @@
     ViewData["Title"] = "Samuel Park";
 }
 
+
 <h1>Zodiac Sign Calculator</h1>
 <form method="post">
     <div>
@@ -12,8 +13,8 @@
         <span style="color:red">@Model.ErrorMessage</span>
     </div>
     <div>
-        <button type="submit">Submit</button>
-        <button type="reset">Clear</button>
+        <button class= "button" type="submit">Submit</button>
+        <a href="/" class="button">Clear</a> <!-- Clear button sends a GET request to reset the page -->
     </div>
 </form>
 
@@ -21,8 +22,6 @@
 {
     <h2>Your Zodiac Sign: @Model.ZodiacSign</h2>
     <img src="~/images/@(Model.ZodiacSign).png" alt="@Model.ZodiacSign" />
-
-
 }
 
 <footer>

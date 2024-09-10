@@ -28,3 +28,4 @@ C:\Users\sampa\OneDrive\Desktop\School\Term 4\COMP 4952\COMP4952Lab1\COMP4952Lab
 C:\Users\sampa\OneDrive\Desktop\School\Term 4\COMP 4952\COMP4952Lab1\COMP4952Lab1\obj\Debug\net8.0\COMP4952Lab1.pdb
 C:\Users\sampa\OneDrive\Desktop\School\Term 4\COMP 4952\COMP4952Lab1\COMP4952Lab1\obj\Debug\net8.0\COMP4952Lab1.genruntimeconfig.cache
 C:\Users\sampa\OneDrive\Desktop\School\Term 4\COMP 4952\COMP4952Lab1\COMP4952Lab1\obj\Debug\net8.0\ref\COMP4952Lab1.dll
+C:\Users\sampa\OneDrive\Desktop\School\Term 4\COMP 4952\COMP4952Lab1\COMP4952Lab1\obj\Debug\net8.0\COMP4952Lab1.sourcelink.json
